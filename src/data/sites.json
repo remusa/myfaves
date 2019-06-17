@@ -1,0 +1,121 @@
+[{
+        "name": "start.io",
+        "categories": ["react", "gatsby", "graphql"],
+        "img": "..images/sites/pomodoro-clock.png",
+        "url": "https://renems.com"
+    },
+    {
+        "name": "TickTick",
+        "categories": ["react", "gatsby", "graphql"],
+        "img": "https://via.placeholder.com/150",
+        "url": "https://ticktick.com"
+    },
+    {
+        "name": "Google Calendar",
+        "categories": ["react", "gatsby", "graphql"],
+        "img": "https://via.placeholder.com/150",
+        "url": "https://calendar.google.com/calendar/"
+    },
+    {
+        "name": "Trello",
+        "categories": ["react", "gatsby", "graphql"],
+        "img": "https://via.placeholder.com/150",
+        "url": "https://trello.com/"
+    },
+    {
+        "name": "Simplenote",
+        "categories": ["react", "gatsby", "graphql"],
+        "img": "https://via.placeholder.com/150",
+        "url": "https://simplenote.com/"
+    },
+    {
+        "name": "Evernote",
+        "categories": ["react", "gatsby", "graphql"],
+        "img": "https://via.placeholder.com/150",
+        "url": "https://evernote.com/"
+    },
+    {
+        "name": "Rescuetime",
+        "categories": ["react", "gatsby", "graphql"],
+        "img": "https://via.placeholder.com/150",
+        "url": "https://www.rescuetime.com/"
+    },
+    {
+        "name": "Cronometer",
+        "categories": ["react", "gatsby", "graphql"],
+        "img": "https://via.placeholder.com/150",
+        "url": "https://cronometer.com/"
+    },
+    {
+        "name": "Gmail",
+        "categories": ["react", "gatsby", "graphql"],
+        "img": "https://via.placeholder.com/150",
+        "url": "https://mail.google.com/mail/u/0/#inbox"
+    },
+    {
+        "name": "ProtonMail",
+        "categories": ["react", "gatsby", "graphql"],
+        "img": "https://via.placeholder.com/150",
+        "url": "https://protonmail.com/"
+    },
+    {
+        "name": "Zoho Mail",
+        "categories": ["react", "gatsby", "graphql"],
+        "img": "https://via.placeholder.com/150",
+        "url": "https://www.zoho.com/mail/"
+    },
+    {
+        "name": "Dropbox",
+        "categories": ["react", "gatsby", "graphql"],
+        "img": "https://via.placeholder.com/150",
+        "url": "https://www.dropbox.com/"
+    },
+    {
+        "name": "Pinboard",
+        "categories": ["react", "gatsby", "graphql"],
+        "img": "https://via.placeholder.com/150",
+        "url": "http://pinboard.in/"
+    },
+    {
+        "name": "Feedly",
+        "categories": ["react", "gatsby", "graphql"],
+        "img": "https://via.placeholder.com/150",
+        "url": "https://feedly.com/i/my"
+    },
+    {
+        "name": "Pocket",
+        "categories": ["react", "gatsby", "graphql"],
+        "img": "https://via.placeholder.com/150",
+        "url": "https://getpocket.com/"
+    },
+    {
+        "name": "reddit",
+        "categories": ["react", "gatsby", "graphql"],
+        "img": "https://via.placeholder.com/150",
+        "url": "https://old.reddit.com/"
+    },
+    {
+        "name": "TweetDeck",
+        "categories": ["react", "gatsby", "graphql"],
+        "img": "https://via.placeholder.com/150",
+        "url": "https://tweetdeck.twitter.com/"
+    },
+    {
+        "name": "Masteranime",
+        "categories": ["react", "gatsby", "graphql"],
+        "img": "https://via.placeholder.com/150",
+        "url": "https://www.masterani.me/"
+    },
+    {
+        "name": "YouTube",
+        "categories": ["react", "gatsby", "graphql"],
+        "img": "https://via.placeholder.com/150",
+        "url": "https://www.youtube.com/"
+    },
+    {
+        "name": "WhatsApp",
+        "categories": ["react", "gatsby", "graphql"],
+        "img": "https://via.placeholder.com/150",
+        "url": "https://web.whatsapp.com/"
+    }
+]

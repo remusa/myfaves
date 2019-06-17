@@ -1,0 +1,759 @@
+{
+
+    "outline": [{
+            "_text": "TickTick",
+            "_type": "link",
+            "_url": "https://ticktick.com/#q/all/today"
+        },
+        {
+            "_text": "Google Calendar",
+            "_type": "link",
+            "_url": "https://calendar.google.com/calendar/render#main_7"
+        },
+        {
+            "_text": "Trello",
+            "_type": "link",
+            "_url": "https://trello.com/"
+        },
+        {
+            "_text": "Simplenote",
+            "_type": "link",
+            "_url": "https://app.simplenote.com/"
+        },
+        {
+            "_text": "Evernote",
+            "_type": "link",
+            "_url": "https://www.evernote.com/Home.action?login=true"
+        },
+        {
+            "_text": "Pinboard",
+            "_type": "link",
+            "_url": "https://pinboard.in/"
+        },
+        {
+            "_text": "Coach.me",
+            "_type": "link",
+            "_url": "https://www.coach.me/"
+        },
+        {
+            "_text": "RescueTime",
+            "_type": "link",
+            "_url": "https://www.rescuetime.com/dashboard"
+        },
+        {
+            "_text": "WakaTime",
+            "_type": "link",
+            "_url": "https://wakatime.com/dashboard"
+        },
+        {
+            "_text": "Cronometer",
+            "_type": "link",
+            "_url": "https://cronometer.com/"
+        },
+        {
+            "_text": "My Fitness Pal",
+            "_type": "link",
+            "_url": "https://www.myfitnesspal.com/"
+        },
+        {
+            "_text": "Noisli",
+            "_type": "link",
+            "_url": "https://www.noisli.com/"
+        },
+        {
+            "_text": "A Soft Murmur",
+            "_type": "link",
+            "_url": "https://asoftmurmur.com/"
+        },
+        {
+            "_text": "Portal del Alumno",
+            "_type": "link",
+            "_url": "http://portal.ittoluca.edu.mx:8100/ITTPortalAlumno/"
+        },
+        {
+            "_text": "Gmail",
+            "_type": "link",
+            "_url": "https://mail.google.com/mail/u/0/#inbox"
+        },
+        {
+            "_text": "Zoho Mail",
+            "_type": "link",
+            "_url": "https://www.zoho.com/mail/"
+        },
+        {
+            "_text": "Outlook",
+            "_type": "link",
+            "_url": "https://outlook.office365.com/owa/?realm=toluca.tecnm.mx"
+        },
+        {
+            "_text": "ProtonMail",
+            "_type": "link",
+            "_url": "https://protonmail.com/"
+        },
+        {
+            "_text": "Cock.li",
+            "_type": "link",
+            "_url": "https://cock.li/"
+        },
+        {
+            "_text": "Disroot Webmail",
+            "_type": "link",
+            "_url": "https://mail.disroot.org/"
+        },
+        {
+            "_text": "freeCodeCamp",
+            "_type": "link",
+            "_url": "https://www.freecodecamp.org/"
+        },
+        {
+            "_text": "Codecademy",
+            "_type": "link",
+            "_url": "https://www.codecademy.com/"
+        },
+        {
+            "_text": "Udacity",
+            "_type": "link",
+            "_url": "https://www.udacity.com/"
+        },
+        {
+            "_text": "Coursera",
+            "_type": "link",
+            "_url": "https://www.coursera.org/"
+        },
+        {
+            "_text": "edX",
+            "_type": "link",
+            "_url": "https://www.edx.org/"
+        },
+        {
+            "_text": "Udemy",
+            "_type": "link",
+            "_url": "https://www.udemy.com/"
+        },
+        {
+            "_text": "Lynda",
+            "_type": "link",
+            "_url": "https://www.lynda.com/"
+        },
+        {
+            "_text": "Pluralsight",
+            "_type": "link",
+            "_url": "https://www.pluralsight.com/"
+        },
+        {
+            "_text": "2uts",
+            "_type": "link",
+            "_url": "https://2uts.com/"
+        },
+        {
+            "_text": "CourseHunters",
+            "_type": "link",
+            "_url": "http://Учитесь, Блеать! - Видеокурсы для разработчиков"
+        },
+        {
+            "_text": "CourseCademy",
+            "_type": "link",
+            "_url": "https://www.coursecademy.org/"
+        },
+        {
+            "_text": "FreeTutorials.Us",
+            "_type": "link",
+            "_url": "https://www.freetutorials.us/"
+        },
+        {
+            "_text": "Desire Course",
+            "_type": "link",
+            "_url": "https://desirecourse.com/"
+        },
+        {
+            "_text": "FreeCourseLab",
+            "_type": "link",
+            "_url": "https://freecourselab.com/"
+        },
+        {
+            "_text": "Course Club",
+            "_type": "link",
+            "_url": "https://courseclub.net/"
+        },
+        {
+            "_text": "Udemy Torrents | 1337x",
+            "_type": "link",
+            "_url": "https://x1337x.se/sort-search/Udemy/time/desc/1/"
+        },
+        {
+            "_text": "Google Search Operators: The Complete List (42 Advanced Operators)",
+            "_type": "link",
+            "_url": "https://ahrefs.com/blog/google-advanced-search-operators/"
+        },
+        {
+            "_text": "DeepL Translator",
+            "_type": "link",
+            "_url": "https://www.deepl.com/translator"
+        },
+        {
+            "_text": "Use Efficiency is Everything Make Your Life More Efficient",
+            "_type": "link",
+            "_url": "https://efficiencyiseverything.com/"
+        },
+        {
+            "_text": "WhatsApp Web",
+            "_type": "link",
+            "_url": "https://web.whatsapp.com/"
+        },
+        {
+            "_text": "Messenger",
+            "_type": "link",
+            "_url": "https://www.messenger.com/"
+        },
+        {
+            "_text": "TweetDeck",
+            "_type": "link",
+            "_url": "https://tweetdeck.twitter.com/"
+        },
+        {
+            "_text": "Facebook",
+            "_type": "link",
+            "_url": "https://www.facebook.com/"
+        },
+        {
+            "_text": "Discord",
+            "_type": "link",
+            "_url": "https://discordapp.com/channels/@me"
+        },
+        {
+            "_text": "Dropbox",
+            "_type": "link",
+            "_url": "https://www.dropbox.com/h"
+        },
+        {
+            "_text": "Google Drive",
+            "_type": "link",
+            "_url": "https://drive.google.com/drive/my-drive"
+        },
+        {
+            "_text": "OneDrive",
+            "_type": "link",
+            "_url": "https://onedrive.live.com/"
+        },
+        {
+            "_text": "Google Photos",
+            "_type": "link",
+            "_url": "https://photos.google.com/"
+        },
+        {
+            "_text": "MEGA",
+            "_type": "link",
+            "_url": "https://mega.nz/"
+        },
+        {
+            "_text": "Bodyweight Workout Log (xlsx)",
+            "_type": "link",
+            "_url": "https://www.dropbox.com/s/io0rmc3hkvrshu1/Bodyweight%20Workout%20Log.xlsx?dl=0"
+        },
+        {
+            "_text": "reddit_bodyweightfitness_RR",
+            "_type": "link",
+            "_url": "https://www.dropbox.com/s/07ql7adzk1t42l1/reddit_bodyweightfitness_RR.pdf?dl=0"
+        },
+        {
+            "_text": "Feedly",
+            "_type": "link",
+            "_url": "https://feedly.com/i/my"
+        },
+        {
+            "_text": "Instapaper",
+            "_type": "link",
+            "_url": "https://www.instapaper.com/u"
+        },
+        {
+            "_text": "reddit",
+            "_type": "link",
+            "_url": "https://www.reddit.com/"
+        },
+        {
+            "_text": "My Kindle Docs",
+            "_type": "link",
+            "_url": "https://www.amazon.com/mn/dcw/myx.html/ref=kinw_myk_redirect#/home/content/pdocs/dateDsc/"
+        },
+        {
+            "_text": "Google Play Books",
+            "_type": "link",
+            "_url": "https://play.google.com/books"
+        },
+        {
+            "_text": "Books (xls)",
+            "_type": "link",
+            "_url": "https://www.dropbox.com/ow/msft/edit/personal/2.working/Lists/Books.xlsx?hpt_click_ts=1537405775748"
+        },
+        {
+            "_text": "Clippings.io",
+            "_type": "link",
+            "_url": "https://my.clippings.io/#/"
+        },
+        {
+            "_text": "Readwise",
+            "_type": "link",
+            "_url": "https://readwise.io/"
+        },
+        {
+            "_text": "Outline - Read & annotate without distractions",
+            "_type": "link",
+            "_url": "https://outline.com/"
+        },
+        {
+            "_text": "Winds",
+            "_type": "link",
+            "_url": "https://winds.getstream.io/"
+        },
+        {
+            "_text": "Google Adsense",
+            "_type": "link",
+            "_url": "https://www.google.com/adsense/"
+        },
+        {
+            "_text": "Google AdMob",
+            "_type": "link",
+            "_url": "https://apps.admob.com/v2/home"
+        },
+        {
+            "_text": "Google Play Console",
+            "_type": "link",
+            "_url": "https://play.google.com/apps/publish/"
+        },
+        {
+            "_text": "Google Firebase",
+            "_type": "link",
+            "_url": "https://console.firebase.google.com/"
+        },
+        {
+            "_text": "IsThereAnyDeal",
+            "_type": "link",
+            "_url": "http://isthereanydeal.com"
+        },
+        {
+            "_text": "YesThereIsADeal",
+            "_type": "link",
+            "_url": "http://yesthereisadeal.com/"
+        },
+        {
+            "_text": "GameDeals",
+            "_type": "link",
+            "_url": "https://www.reddit.com/r/GameDeals/"
+        },
+        {
+            "_text": "Amazon",
+            "_type": "link",
+            "_url": "https://www.amazon.com/"
+        },
+        {
+            "_text": "Amazon México",
+            "_type": "link",
+            "_url": "https://www.amazon.com.mx/"
+        },
+        {
+            "_text": "ebay",
+            "_type": "link",
+            "_url": "https://www.ebay.com/"
+        },
+        {
+            "_text": "Promodescuentos",
+            "_type": "link",
+            "_url": "https://www.promodescuentos.com/"
+        },
+        {
+            "_text": "Best Meta",
+            "_type": "link",
+            "_url": "https://www.bestmeta.com/"
+        },
+        {
+            "_text": "YouTube",
+            "_type": "link",
+            "_url": "https://www.youtube.com/"
+        },
+        {
+            "_text": "Twitch.tv",
+            "_type": "link",
+            "_url": "https://go.twitch.tv/directory/following"
+        },
+        {
+            "_text": "Netflix",
+            "_type": "link",
+            "_url": "https://www.netflix.com/browse"
+        },
+        {
+            "_text": "Prime Video",
+            "_type": "link",
+            "_url": "https://www.primevideo.com/storefront/home/ref=dv_web_nav_logo"
+        },
+        {
+            "_text": "IMDb",
+            "_type": "link",
+            "_url": "http://www.imdb.com/"
+        },
+        {
+            "_text": "Trakt.tv",
+            "_type": "link",
+            "_url": "https://trakt.tv/"
+        },
+        {
+            "_text": "That Novel Corner",
+            "_type": "link",
+            "_url": "https://thatnovelcorner.com/"
+        },
+        {
+            "_text": "Novel Updates",
+            "_type": "link",
+            "_url": "http://www.novelupdates.com/"
+        },
+        {
+            "_text": "MyAnimeList.net",
+            "_type": "link",
+            "_url": "https://myanimelist.net/"
+        },
+        {
+            "_text": "HorribleSubs",
+            "_type": "link",
+            "_url": "http://horriblesubs.info/"
+        },
+        {
+            "_text": "KissManga",
+            "_type": "link",
+            "_url": "http://kissmanga.com/"
+        },
+        {
+            "_text": "KissAnime",
+            "_type": "link",
+            "_url": "http://kissanime.ru/"
+        },
+        {
+            "_text": "KissCartoon",
+            "_type": "link",
+            "_url": "https://kisscartoon.es/"
+        },
+        {
+            "_text": "ReadComicOnline",
+            "_type": "link",
+            "_url": "http://readcomiconline.to/"
+        },
+        {
+            "_text": "StreamCR",
+            "_type": "link",
+            "_url": "https://scr.cr/"
+        },
+        {
+            "_text": "JustWatch - Películas populares y series de TV",
+            "_type": "link",
+            "_url": "https://www.justwatch.com/mx"
+        },
+        {
+            "_text": "Flixable",
+            "_type": "link",
+            "_url": "http://flixable.com/"
+        },
+        {
+            "_text": "instantwatcher",
+            "_type": "link",
+            "_url": "http://instantwatcher.com/"
+        },
+        {
+            "_text": "Good Movies Streaming",
+            "_type": "link",
+            "_url": "https://goodfil.ms/films/on_netflix/all"
+        },
+        {
+            "_text": "Top Documentary Films",
+            "_type": "link",
+            "_url": "https://topdocumentaryfilms.com/"
+        },
+        {
+            "_text": "alternatives - KissCartoon",
+            "_type": "link",
+            "_url": "https://www.reddit.com/r/KissCartoon/wiki/alternatives"
+        },
+        {
+            "_text": "Openings.moe",
+            "_type": "link",
+            "_url": "http://openings.moe/"
+        },
+        {
+            "_text": "Headphones",
+            "_type": "link",
+            "_url": "http://localhost:8181/home"
+        },
+        {
+            "_text": "fullmoviesonopenload",
+            "_type": "link",
+            "_url": "https://old.reddit.com/r/fullmoviesonopenload/"
+        },
+        {
+            "_text": "Whats After The Credits?",
+            "_type": "link",
+            "_url": "http://aftercredits.com/"
+        },
+        {
+            "_text": "/r/Dota2",
+            "_type": "link",
+            "_url": "https://www.reddit.com/r/DotA2/"
+        },
+        {
+            "_text": "Liquipedia Dota 2 Wiki",
+            "_type": "link",
+            "_url": "http://wiki.teamliquid.net/dota2/Main_Page"
+        },
+        {
+            "_text": "TrackDota",
+            "_type": "link",
+            "_url": "https://www.trackdota.com/"
+        },
+        {
+            "_text": "Dotabuff",
+            "_type": "link",
+            "_url": "https://www.dotabuff.com/"
+        },
+        {
+            "_text": "OpenDota",
+            "_type": "link",
+            "_url": "https://www.opendota.com/"
+        },
+        {
+            "_text": "Pvgna Oracle",
+            "_type": "link",
+            "_url": "https://pvgna.com/dota2/oracle"
+        },
+        {
+            "_text": "Gosu AI",
+            "_type": "link",
+            "_url": "https://gosu.ai/"
+        },
+        {
+            "_text": "Feedless",
+            "_type": "link",
+            "_url": "http://analysis.feedless.co/"
+        },
+        {
+            "_text": "DotaMax",
+            "_type": "link",
+            "_url": "http://dotamax.com/hero/rate/"
+        },
+        {
+            "_text": "DotaMastery",
+            "_type": "link",
+            "_url": "https://www.dotamastery.io/"
+        },
+        {
+            "_text": "Dota2ProTracker",
+            "_type": "link",
+            "_url": "http://www.dota2protracker.com/"
+        },
+        {
+            "_text": "Dota Pro Circuit",
+            "_type": "link",
+            "_url": "https://www.dotabuff.com/procircuit"
+        },
+        {
+            "_text": "datdota",
+            "_type": "link",
+            "_url": "http://www.datdota.com/"
+        },
+        {
+            "_text": "Quas-Wex-Exort.com",
+            "_type": "link",
+            "_url": "https://quas-wex-exort.com/"
+        },
+        {
+            "_text": "Stratz eSports",
+            "_type": "link",
+            "_url": "https://stratz.com/en-us/"
+        },
+        {
+            "_text": "the Metagame",
+            "_type": "link",
+            "_url": "https://lemonwaffle.github.io/meta-game/"
+        },
+        {
+            "_text": "/r/SoccerStreams",
+            "_type": "link",
+            "_url": "https://www.reddit.com/r/soccerstreams/"
+        },
+        {
+            "_text": "RojaDirecta",
+            "_type": "link",
+            "_url": "http://www.rojadirecta.me/es"
+        },
+        {
+            "_text": "Real Madrid Scores & Fixtures",
+            "_type": "link",
+            "_url": "http://www.espnfc.com/club/real-madrid/86/fixtures"
+        },
+        {
+            "_text": "Football Standings",
+            "_type": "link",
+            "_url": "http://www.foxsports.com/soccer/standings"
+        },
+        {
+            "_text": "/r/MMAStreams",
+            "_type": "link",
+            "_url": "https://www.reddit.com/r/MMAStreams/"
+        },
+        {
+            "_text": "Account Mover For Reddit",
+            "_type": "link",
+            "_url": "https://accountmover.com/"
+        },
+        {
+            "_text": "Savvit.io - Organize your reddit saved posts",
+            "_type": "link",
+            "_url": "https://savvit.io/"
+        },
+        {
+            "_text": "Reddit Manager",
+            "_type": "link",
+            "_url": "https://redditmanager.com/"
+        },
+        {
+            "_text": "awesome-piracy",
+            "_type": "link",
+            "_url": "https://github.com/Igglybuff/awesome-piracy"
+        },
+        {
+            "_text": "Scribd Downloader, Issuu Downloader",
+            "_type": "link",
+            "_url": "https://docdownloader.com/"
+        },
+        {
+            "_text": "Yout",
+            "_type": "link",
+            "_url": "https://yout.com/"
+        },
+        {
+            "_text": "Library Genesis",
+            "_type": "link",
+            "_url": "http://libgen.io/"
+        },
+        {
+            "_text": "B-OK",
+            "_type": "link",
+            "_url": "https://b-ok.org/"
+        },
+        {
+            "_text": "BookFI",
+            "_type": "link",
+            "_url": "http://en.bookfi.net/"
+        },
+        {
+            "_text": "LibriVox",
+            "_type": "link",
+            "_url": "https://librivox.org/"
+        },
+        {
+            "_text": "audiobookbay.nl",
+            "_type": "link",
+            "_url": "http://audiobookbay.nl"
+        },
+        {
+            "_text": "OD-Database",
+            "_type": "link",
+            "_url": "https://od-db.the-eye.eu/"
+        },
+        {
+            "_text": "Torrentz Search Engine",
+            "_type": "link",
+            "_url": "https://torrentz2.eu/"
+        },
+        {
+            "_text": "The Pirate Bay",
+            "_type": "link",
+            "_url": "https://thepiratebay.org/"
+        },
+        {
+            "_text": "RARBG.to",
+            "_type": "link",
+            "_url": "http://rarbg.to/torrents.php"
+        },
+        {
+            "_text": "ACHanime",
+            "_type": "link",
+            "_url": "http://www.achanime.net/"
+        },
+        {
+            "_text": "Musica Anime Online Free!",
+            "_type": "link",
+            "_url": "http://musicas-anime.com/ost/"
+        },
+        {
+            "_text": "Anime Music Download",
+            "_type": "link",
+            "_url": "http://animemusicdownload.info/"
+        },
+        {
+            "_text": "Otaku World",
+            "_type": "link",
+            "_url": "http://otakuworldsite.blogspot.com/"
+        },
+        {
+            "_text": "Music Riders",
+            "_type": "link",
+            "_url": "https://musicriders.blogspot.com/"
+        },
+        {
+            "_text": "WebOasis",
+            "_type": "link",
+            "_url": "https://weboas.is/"
+        },
+        {
+            "_text": "1337x",
+            "_type": "link",
+            "_url": "https://x1337x.se/home/"
+        },
+        {
+            "_text": "MEGA | Officially Translated Light Novels",
+            "_type": "link",
+            "_url": "https://mega.nz/#F!701lwbCb!OYcsVnxQswEBWf_FER2Ovw"
+        },
+        {
+            "_text": "SAO Archive",
+            "_type": "link",
+            "_url": "https://sao-archive.maamue.de/index.html"
+        },
+        {
+            "_text": "megathread - Piracy",
+            "_type": "link",
+            "_url": "https://old.reddit.com/r/Piracy/wiki/megathread"
+        },
+        {
+            "_text": "CrackWatch",
+            "_type": "link",
+            "_url": "https://crackwatch.com/"
+        },
+        {
+            "_text": "FitGirl Repacks",
+            "_type": "link",
+            "_url": "http://fitgirl-repacks.site/"
+        },
+        {
+            "_text": "ReleaseAPK",
+            "_type": "link",
+            "_url": "https://release-apk.com/"
+        },
+        {
+            "_text": "On HAX",
+            "_type": "link",
+            "_url": "https://onhax.me/"
+        },
+        {
+            "_text": "App Releases | Mobilism",
+            "_type": "link",
+            "_url": "https://forum.mobilism.org/viewforum.php?f=399"
+        },
+        {
+            "_text": "Movie HD Lite for Android",
+            "_type": "link",
+            "_url": "https://old.reddit.com/r/MovieHDLite/"
+        },
+        {
+            "_text": "What are some cool websites where you can download free stuff? : AskReddit",
+            "_type": "link",
+            "_url": "https://old.reddit.com/r/AskReddit/comments/8gy4nd/what_are_some_cool_websites_where_you_can/"
+        }
+    ]
+}

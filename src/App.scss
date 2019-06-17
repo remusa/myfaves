@@ -1,0 +1,36 @@
+:root {
+  --color-background: #f4f4f4;
+  --color-primary: #00bcd4;
+  --color-primary-dark: rgb(0, 122, 204);
+  --color-selection: rgb(3, 212, 191);
+  --color-white: #f3f3f3;
+  --color-font: var(--color-white);
+}
+
+body {
+  margin: 0;
+  padding: 0;
+  height: 100%;
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen-Sans, Ubuntu, Cantarell, 'Helvetica Neue', sans-serif;
+  // background-color: var(--color-background);
+
+  /* Background pattern */
+  color: var(--color-font);
+  background:
+    radial-gradient(black 15%, transparent 16%) 0 0,
+    radial-gradient(black 15%, transparent 16%) 8px 8px,
+    radial-gradient(rgba(255, 255, 255, .1) 15%, transparent 20%) 0 1px,
+    radial-gradient(rgba(255, 255, 255, .1) 15%, transparent 20%) 8px 9px;
+  background-color: #282828;
+  background-size: 16px 16px;
+}
+
+a {
+  text-decoration: none;
+  color: #2D3539;
+}
+
+::selection {
+  background: var(--color-selection);
+  color: var(--color-white);
+}
