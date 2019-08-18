@@ -1,4 +1,5 @@
-[{
+[
+    {
         "name": "start.io",
         "categories": ["react", "gatsby", "graphql"],
         "img": "..images/sites/pomodoro-clock.png",

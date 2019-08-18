@@ -1,6 +1,6 @@
 import PropTypes from 'prop-types';
 import React from 'react';
-import sitesList from '../data/sites';
+import sitesList from '../data/sites.json';
 import './sites.scss';
 
 const initialState = {
